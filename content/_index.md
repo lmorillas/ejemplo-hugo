@@ -1,7 +1,7 @@
 ---
-title: "Mi Portfolio"
+title: "Ejercicio DAW"
 
-description: "Test sitio estático."
+description: "Statics Sites - CPIFP Los Enlaces"
 
 featured_image: '/images/spider.jpg'
 ---
