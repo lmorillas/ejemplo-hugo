@@ -15,3 +15,9 @@ hugo server -D -b / --appendPort=false
 ```
 
 
+## Uso de Gallery
+
+```md
+{{< gallery match="images/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600
+
+```
